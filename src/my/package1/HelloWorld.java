@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.print("Master Test!");
         System.out.print("Hot-fix Test!");
         System.out.print("Push Test!");
+        System.out.print("Pull Test!");
     }
 }
